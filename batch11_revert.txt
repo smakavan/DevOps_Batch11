@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 First line added
 2nd line added in filE
 3rd line added in a file
-=======
->>>>>>> parent of 021a05b... batch11_revert file 1st line added
