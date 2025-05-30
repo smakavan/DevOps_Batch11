@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 File edited
 2nd line added
-=======
->>>>>>> parent of 587a073... test_revert file edited
